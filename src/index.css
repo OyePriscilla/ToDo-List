@@ -79,3 +79,7 @@ body {
 input:focus {
   outline: none;
 }
+
+.pp {
+  margin: 0;
+}
